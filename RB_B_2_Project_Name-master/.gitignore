@@ -1,0 +1,5 @@
+Server Source/node_modules/*
+Database Source/node_modules/*
+UI/node_modules/*
+*/node_modules/*
+Local Server/node_modules/*

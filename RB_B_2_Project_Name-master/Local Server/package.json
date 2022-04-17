@@ -1,0 +1,19 @@
+{
+  "name": "CyBots",
+  "version": "1.0.0",
+  "description": "Cybots App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "livecam": "latest",
+    "socket.io": "^2.0.4",
+    "sql": "latest"
+  },
+  "private": "true",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}
